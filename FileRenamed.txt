@@ -2,8 +2,8 @@ Happy New Year....2018...Yay!!
 
 Welcome to Git Training...!!
 
-Change1
+Change - 1
 
-Change2
+Change - 2
 
-Change3
+Change - 3
