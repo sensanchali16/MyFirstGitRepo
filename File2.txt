@@ -2,3 +2,4 @@ This is a new file
 
 Change 5
 Change 6  //made on remote
+Change 7 //remote
